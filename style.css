@@ -1,0 +1,13 @@
+.header-table{
+    background-color: lightblue;
+    color: #333;
+}
+h1{
+    color: lightcoral;
+    border: 1px dashed black;
+    text-align: center;
+}
+.row-produk:hover{
+    background-color: #ccc;
+    cursor: pointer;
+}
